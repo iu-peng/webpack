@@ -1,0 +1,11 @@
+body{
+	background:#20b2aa;
+}
+.title{
+	color:red;
+	background: url('./1.jpg');
+}
+.title img{
+	width:300px;
+	height:200px;
+}
